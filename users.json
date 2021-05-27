@@ -1,11 +1,13 @@
 [
   {
-    "id": 2
-  },
-  {
     "name": "Kris",
     "lastName": "Dou",
     "id": 1
+  },
+  {
+    "id": 2,
+    "name": "Gustav",
+    "lastName": "Bodo"
   },
   {
     "id": 131,
